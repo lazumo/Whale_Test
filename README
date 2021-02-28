@@ -1,0 +1,27 @@
+About Execute
+----------------------------------------------------------------------
+This priject is not very perfect.
+The Environment with Spyder and package if pygame are needed.
+open the file "whale.py" and execute it, then you can start your test.
+----------------------------------------------------------------------
+
+About Edit
+----------------------------------------------------------------------
+If you want to change the species or even modify this game to another 
+mini game about different knowledge:
+open the file "whale_name.txt"
+add the option in this order
+example:
+北露脊鯨 Eubalaena_Glacialis 1_1.jpg
+that is
+
+"Chinese name"(space)"scientific name"(space)"image"
+
+Rule of naming images
+"(Num)_1.jpg"
+----------------------------------------------------------------------
+About Language:Chinese
+----------------------------------------------------------------------
+
+
+
